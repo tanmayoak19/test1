@@ -22,6 +22,7 @@ public class LocatorsPageError extends AndroidDriverManager {
     public void fillLoginDetails(){
        // enterNameField.sendKeys(enterName);
         System.out.println("success");
+        //Testing Done
     }
 
 
